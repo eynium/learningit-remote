@@ -1,2 +1,2 @@
-# gemini-lessons-on-git
+# learnigit-remote
 Geminin teaches me git
